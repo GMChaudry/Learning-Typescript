@@ -1,2 +1,4 @@
 # Learning-Typescript
 This repository is for practicing the Typescript
+
+HI THIS IS GHULAM MURTAZA CHAUDRY ,I AM NEW IN CODING WORLD ,LEARNING AND EXPLORING ABOUT ARTIFICIAL INTELLIGENT.
